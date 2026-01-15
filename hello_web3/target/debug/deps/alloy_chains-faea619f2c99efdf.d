@@ -1,0 +1,11 @@
+/Users/kang/Desktop/Arbitrum-rust-colearning---kangdom/hello_web3/target/debug/deps/alloy_chains-faea619f2c99efdf.d: /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/lib.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/chain.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/named.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/spec.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/../README.md
+
+/Users/kang/Desktop/Arbitrum-rust-colearning---kangdom/hello_web3/target/debug/deps/liballoy_chains-faea619f2c99efdf.rlib: /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/lib.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/chain.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/named.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/spec.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/../README.md
+
+/Users/kang/Desktop/Arbitrum-rust-colearning---kangdom/hello_web3/target/debug/deps/liballoy_chains-faea619f2c99efdf.rmeta: /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/lib.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/chain.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/named.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/spec.rs /Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/../README.md
+
+/Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/lib.rs:
+/Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/chain.rs:
+/Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/named.rs:
+/Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/spec.rs:
+/Users/kang/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.27/src/../README.md:
