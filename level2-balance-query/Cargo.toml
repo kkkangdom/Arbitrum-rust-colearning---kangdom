@@ -1,0 +1,13 @@
+[package]
+name = "level2-balance-query"
+version = "0.1.0"
+edition = "2021"
+
+# 告诉 Cargo，我们的二进制入口文件是 balance.rs
+[[bin]]
+name = "balance"
+path = "src/balance.rs"
+
+[dependencies]
+ethers = { version = "2.0", features = ["rustls"] }
+tokio = { version = "1.0", features = ["full"] }
