@@ -8,4 +8,4 @@ this is for Arbitrum-rust learning
 ![balance-query-2](./screenshots/balance-query-2.png)
 
 ## task3 计算gas费
-![gas fee](./screenshots/gas fee.png)
+![gas-fee](./screenshots/gas-fee.png)
