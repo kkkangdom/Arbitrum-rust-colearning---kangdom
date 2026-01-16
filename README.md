@@ -6,3 +6,6 @@ this is for Arbitrum-rust learning
 ## task2 查询余额
 ![balance-query](./screenshots/balance-query.png)
 ![balance-query-2](./screenshots/balance-query-2.png)
+
+## task3 计算gas费
+![gas fee](./screenshots/gas fee.png)

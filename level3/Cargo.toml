@@ -1,0 +1,9 @@
+[package]
+name = "level3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alloy = { version = "0.1", features = ["full"] }
+alloy-primitives = "0.7"
+tokio = { version = "1", features = ["full"] }
